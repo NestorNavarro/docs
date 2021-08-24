@@ -2,6 +2,7 @@
 
 ## React sources
 * [React doc](https://create-react-app.dev/)
+* [React estructura de archivos](https://es.reactjs.org/docs/faq-structure.html)
 
 ## Test on React 
 * [enzyme](https://enzymejs.github.io/enzyme/)
